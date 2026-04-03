@@ -1,0 +1,40 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Théron Regnier
+N:Regnier;Théron;;;
+TITLE:Founder and Head Distiller
+EMAIL;TYPE=WORK:tr@theobscure.com
+ORG:The Obscure
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Laura Hines
+N:Hines;Laura;;;
+TITLE:Co-Founder and Creative Director
+EMAIL;TYPE=WORK:laura@theobscure.com
+ORG:The Obscure
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Hope Ewing
+N:Ewing;Hope;;;
+TITLE:Potions Master
+EMAIL;TYPE=WORK:hope@theobscure.com
+ORG:The Obscure
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Kate Knight
+N:Knight;Kate;;;
+TITLE:Director of Finance
+EMAIL;TYPE=WORK:kate@theobscure.com
+ORG:The Obscure
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Thor Von Presley
+N:Von Presley;Thor;;;
+TITLE:Art Director
+EMAIL;TYPE=WORK:thorvonp@theobscure.com
+ORG:The Obscure
+END:VCARD
